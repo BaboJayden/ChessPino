@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/ChessPino.egg-info/PKG-INFO
+src/ChessPino.egg-info/SOURCES.txt
+src/ChessPino.egg-info/dependency_links.txt
+src/ChessPino.egg-info/requires.txt
+src/ChessPino.egg-info/top_level.txt
+src/chesspino/__init__.py
+src/chesspino/__main__.py
+src/chesspino/engine.py
+src/chesspino/main.py
+src/chesspino/position.py
+src/chesspino/rules.py
